@@ -1,2 +1,45 @@
-h1 { font-family: "Red Hat Text", sans-serif; } h1 { padding-right: 20%; }
-a { font-family: "Red Hat Text", sans-serif;}
+h1 {
+    font-family: "Red Hat Text", sans-serif; 
+    text-align: center; 
+    color: aliceblue;
+}
+a { 
+    font-family: "Red Hat Text", sans-serif;
+    font-size: 20px;
+}
+body {
+    background-color: #202124;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+.button1 {
+    background-color: aliceblue;
+    color: #000000;
+    font-family: "Red Hat Text", sans-serif;
+    font-size: 17px;
+    border-radius: 4px;
+    text-align: center;
+    position: fixed;
+    left: 50%;
+    border: none;
+    margin: auto;
+    display: flex;
+}
+
+.button2 {
+    background-color: aliceblue;
+    color: #000000;
+    font-family: "Red Hat Text", sans-serif;
+    font-size: 17px;
+    border-radius: 4px;
+    text-align: center;
+    position: fixed;
+    left: 44%;
+    border: none;
+    margin: auto;
+    display: flex;
+}
