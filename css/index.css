@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FE;
-	background-color: #1A076C;
+	color: #000004;
+	background-color: #9BABB4;
 }
 
 .html
@@ -13,16 +13,16 @@
 {
 	z-index: 1;
 	width: 284px;
-	min-height: 297.59999999999997px;
+	min-height: 296px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 5px 330px 197.40000000000003px 346px;
+	padding: 7px 330px 197px 346px;
 }
 
-#u76
+#u148
 {
-	z-index: 9;
-	width: 201px;
+	z-index: 19;
+	width: 204px;
 	margin-left: 34px;
 	position: relative;
 }
@@ -30,19 +30,18 @@
 #pu74-4
 {
 	width: 0.01px;
-	margin-top: 23px;
+	margin-top: 18px;
 }
 
 #u74-4
 {
-	font-family: 'Red Hat Text', sans-serif;
 	z-index: 2;
 	width: 267px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 36px;
 	color: #F0F8FF;
 	font-size: 30px;
-	line-height: 36px;
 	text-align: center;
 	position: relative;
 	margin-right: -10000px;
@@ -62,12 +61,12 @@
 {
 	width: 0.01px;
 	margin-left: 34px;
-	margin-top: 14px;
+	margin-top: 15px;
 }
 
 #buttonu119
 {
-	z-index: 16;
+	z-index: 14;
 	width: 94px;
 	border-color: #787878;
 	background-color: #F0F8FF;
@@ -93,7 +92,7 @@
 
 #u121-4
 {
-	z-index: 17;
+	z-index: 15;
 	width: 74px;
 	min-height: 21px;
 	background-color: transparent;
@@ -121,7 +120,7 @@
 
 #buttonu116
 {
-	z-index: 11;
+	z-index: 9;
 	width: 94px;
 	border-color: #787878;
 	background-color: #F0F8FF;
@@ -142,7 +141,7 @@
 
 #u117-4
 {
-	z-index: 12;
+	z-index: 10;
 	width: 74px;
 	min-height: 21px;
 	background-color: transparent;

@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #0000FA;
-	background-color: #614506;
+	color: #0000F5;
+	background-color: #85C7F4;
 }
 
 .html
@@ -12,24 +12,86 @@
 #page
 {
 	z-index: 1;
-	width: 209px;
-	min-height: 38px;
+	width: 960px;
+	min-height: 250px;
+	padding-bottom: 250px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 375px 442px 376px;
 }
 
-#u89-4
+#buttonu139
 {
 	z-index: 2;
-	width: 209px;
-	min-height: 38px;
-	color: #F0F8FF;
-	font-size: 30px;
-	line-height: 36px;
-	text-align: center;
-	left: -1px;
+	width: 94px;
+	border-color: #787878;
+	background-color: #F0F8FF;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 216px;
+	left: 433px;
+}
+
+#buttonu139:hover
+{
+	background-color: #545454;
+	margin: 216px -10000px 0px 0px;
+}
+
+#u140-4
+{
+	z-index: 3;
+	width: 74px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #3C3C3C;
+	letter-spacing: 1px;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	left: 10px;
+}
+
+#buttonu139:hover #u140-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu139.ButtonSelected #u140-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu139:hover #u140-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu139.ButtonSelected #u140-4 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+#u141-4
+{
+	z-index: 7;
+	width: 190px;
+	min-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 770px;
 }
 
 body

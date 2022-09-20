@@ -54,7 +54,6 @@ caption,th
 
 h1,h2,h3,h4,h5,h6
 {
-	font-family: 'Red Hat Text', sans-serif;
 	font-size: 100%;
 	font-weight: inherit;
 }
@@ -69,7 +68,7 @@ input,button,textarea,select,optgroup,option
 
 body
 {
-	font-family: 'Red Hat Text', sans-serif;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	text-align: left;
 	font-size: 14px;
 	line-height: 17px;
